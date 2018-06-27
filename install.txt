@@ -1,0 +1,7 @@
+This is a CRUD SPA.
+
+This App has been created using MVC, with boostrap, jQuery and PHP.
+ 
+1) Copy all folders inside the directory you've prevously defined for the app.
+2) Execute the backup.sql to generate the database
+3) Modify the database's conection parameters inside model/alumno.model.php
